@@ -1,6 +1,6 @@
 - 🔭 meu nome é vinicius melão
-- 🌱 designer - ux/ui - brands  - social media
-- 💬 eu já fiz de tudo na internet.
+- 🌱 designer - ux/ui - dev
+- 💬 web3, art and tech.
 - 📫 contact: hey@melao.me
 - 😄 site: https://melao.me
 - ⚡ based in brazil
