@@ -1,4 +1,3 @@
-- 🔭 meu nome é vinicius melão
 - 🌱 designer - ux/ui - dev
 - 💬 web3, art and tech.
 - 📫 contact: hey@melao.me
