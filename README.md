@@ -1,6 +1,6 @@
 > /dev, designer etc
 > /hey@melao.me
-> /https://mellonnn.com
+> /http://mellonnn.com
 > /brazil
 
 <a href="https://www.instagram.com/mellonnn.eth/"><img src="https://img.shields.io/badge/instagram%20@mellonnn.eth-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
